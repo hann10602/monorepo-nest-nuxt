@@ -1,0 +1,47 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "auth": {
+        "signIn": "Sign in",
+        "signUp": "Sign up",
+        "accessYourAccount": "Access your account",
+        "createYourAccount": "Create your account",
+        "alreadyHaveAnAccount": "Already have an account?",
+        "newHere": "New here?",
+        "username": "Username",
+        "password": "Password",
+        "submit": "Submit",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot password"
+    },
+    "experience": {
+        "title": "Experience",
+        "description": "Experience",
+        "company": "Company",
+        "position": "Position",
+        "startDate": "Start date",
+        "endDate": "End date"
+    },
+    "techStack": {
+        "title": "Tech Stack"
+    },
+    "project": {
+        "title": "Projects"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "description": "For commissions and project inquiries, please email me at",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Email",
+        "phoneNum": "Phone number",
+        "writeAMessage": "Write a message",
+        "firstNameError": "First name is required",
+        "lastNameError": "Last name is required",
+        "emailError": "Invalid email address",
+        "phoneNumError": "Invalid phone number"
+    }
+}

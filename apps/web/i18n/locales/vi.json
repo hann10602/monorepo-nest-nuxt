@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Trang chủ",
+        "about": "Giới thiệu",
+        "contact": "Liên hệ"
+    },
+    "auth": {
+        "signIn": "Đăng nhập",
+        "signUp": "Đăng ký",
+        "accessYourAccount": "Truy cập tài khoản của bạn",
+        "createYourAccount": "Tạo tài khoản",
+        "alreadyHaveAnAccount": "Đã có tài khoản?",
+        "newHere": "Mới ở đây?",
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "submit": "Gửi",
+        "rememberMe": "Nhớ tôi",
+        "forgotPassword": "Quên mật khẩu"
+    },
+    "experience": {
+        "title": "Kinh nghiệm",
+        "description": "Kinh nghiệm",
+        "company": "Công ty",
+        "position": "Vị trí",
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc"
+    },
+    "techStack": {
+        "title": "Tech Stack"
+    },
+    "contact": {
+        "title": "Liên hệ",
+        "description": "Để tôi biết thêm về bạn và dự án của bạn, vui lòng gửi email cho tôi tại",
+        "firstName": "Tên",
+        "lastName": "Họ",
+        "email": "Email",
+        "phoneNum": "Số điện thoại",
+        "writeAMessage": "Viết một tin nhắn"
+    }
+}
