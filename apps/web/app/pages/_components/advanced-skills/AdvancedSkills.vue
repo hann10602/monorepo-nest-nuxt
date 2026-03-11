@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { motion } from 'motion-v';
 import TechStack from './tech-stack/TechStack.vue';
+import AdditionalSkills from './additional-skills/AdditionalSkills.vue';
 </script>
 
 <template>
@@ -10,8 +11,9 @@ import TechStack from './tech-stack/TechStack.vue';
             class="text-4xl mb-12 bg-linear-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
             About My Advanced Skills
         </motion.h2>
-        <TechStack />
+        <div class="flex flex-col gap-16">
+            <TechStack />
+            <AdditionalSkills />
+        </div>
     </div>
-
-    <OtherSkills />
 </template>
